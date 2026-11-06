@@ -1,0 +1,8 @@
+# GitHub Pages config for gshk.ca
+title: GSHK Business Consultancy Limited
+description: Hong Kong company formation, accounting, tax filing & business advisory.
+url: "https://gshk.ca"
+baseurl: ""
+theme: null
+permalink: pretty
+markdown: kramdown
